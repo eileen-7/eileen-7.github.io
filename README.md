@@ -1,4 +1,4 @@
-# Eileen — Life Timeline Portfolio
+# Eileen — Portfolio
 
 A single-page, dark-mode portfolio site tracing a life chronologically, built with plain
 HTML/CSS/JS (no build step, no dependencies) — so it's simple to host for free and easy to edit.
